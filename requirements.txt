@@ -6,3 +6,6 @@ python-dotenv>=1.0.0
 fastapi>=0.70.0
 uvicorn>=0.15.0
 python-multipart>=0.0.20
+PyMuPDF>=1.25.5
+json-repair>=0.41.1
+ipython>=9.1.0

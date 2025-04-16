@@ -1,6 +1,6 @@
 {
     "document_processing": {
-        "max_chunk_tokens": 120000
+        "max_chunk_tokens": 999000
     },
     "document_analysis_agent": {
         "system_prompt": "You are a helpful assistant that creates an appendix of the document. This appendix should be in bullet point format. Don't include details, only pointers that the information is there.",

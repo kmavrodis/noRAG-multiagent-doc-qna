@@ -1,7 +1,7 @@
 # Multi-agent Document QnA (The NoRAG Alternative) 🤖📚
 
 ### Approach
-NoRAG MultiAgent Documnet QnA uses a  team of AI agents that work together to understand documents and answer questions based on them. Rather than using traditional vector embeddings like RAG systems, it relies on intelligent document summarization and contextual relevance scoring. 
+NoRAG MultiAgent Document QnA uses a  team of AI agents that work together to understand documents and answer questions based on them. Rather than using traditional vector embeddings like RAG systems, it relies on intelligent document summarization and contextual relevance scoring. 
 
 The `Document Analysis Agent` first creates comprehensive appendices of documents, the `Research Agent` evaluates question relevance against these appendices, and the `Reply Agent` generates answers using the most relevant document, by loading it in the system message as a whole.
 
